@@ -1,3 +1,6 @@
-# EGC
+# EGC: Image Generation and Classification via a Single Energy-Based Model
 
-## Code is coming soon.
+
+![avatar](./doc/overview.png)
+
+### Code is coming soon.
