@@ -12,7 +12,7 @@ Here are the download links for each model checkpoint:
  * 256x256 ImageNet (78.97% Top-1 Acc + FID 6.05): [256x256_EGC.pt](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3007956_connect_hku_hk/EWdM8xRsLcRHjm8Sp0zDGeYBAB-3mu_PEDlX4ex4bFcdkQ)
  * 256x256 ImageNet (72.39% Top-1 Acc + FID 6.77): [256x256_EGC.pt](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3007956_connect_hku_hk/EQ_6FEQ8VdZPrDeZse3okmEB0mSupZz4gmJMqjKD86MOHQ)
 
-More checkpoints will be released soon.
+More checkpoints and training scripts will be released soon.
 
 # Sampling from pre-trained models
 
