@@ -1,4 +1,4 @@
-# EGC: Image Generation and Classification via a Single Energy-Based Model
+# EGC: Image Generation and Classification via a Single Energy-Based Model (ICCV 2023)
 
 #### <p align="center"><a href="https://guoqiushan.github.io/egc.github.io/">Project Page</a> | <a href="https://arxiv.org/abs/2304.02012">Paper</a> | <a href="https://arxiv.org/abs/2304.02012">ArXiv</a></p>
 
