@@ -34,7 +34,7 @@ To test the image classification performance of 256x256 ImageNet EGC model, you 
 For this example, you can run the following cmd:
 
 ```
-./run_imagenet_ldm_eval_cls.sh $LOGDIR 1 1 0 127.0.0.1 $CKPT_PATH --val_data_dir=./data/imagenet256_features_val
+./run_imagenet_egc_eval_cls.sh $LOGDIR 1 1 0 127.0.0.1 $CKPT_PATH --val_data_dir=./data/imagenet256_features_val
 ```
 
 # Training models
